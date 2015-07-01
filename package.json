@@ -1,0 +1,16 @@
+{
+  "name": "operator-cost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Nhut Le",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "hash-table": "^0.1.0",
+    "hashmap": "^2.0.3",
+    "mocha": "^2.2.5",
+    "optimist": "^0.6.1"
+  }
+}
