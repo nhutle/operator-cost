@@ -7,23 +7,23 @@
 #### 1. Run the exercise
 - cd to exercise folder
 
-```cd /operator-cost```
+  ```cd /operator-cost```
 
 - install needed modules
 
-```npm install```
+  ```npm install```
 
 - run the exercise with --dialNum parameter
 
-```node main.js --dialNum=$value```
+  ```node main.js --dialNum=$value```
 
   for example:
 
-```node main.js --dialNum=46```
+  ```node main.js --dialNum=46```
 
-```node main.js --dialNum=46732```
+  ```node main.js --dialNum=46732```
 
 ### 2. Run the test
 - run the test with the following command
 
-```mocha main-test.js```
+  ```mocha main-test.js```
