@@ -14,7 +14,7 @@
 - run the exercise with --dialNum parameter
 ```node main.js --dialNum=$value```
 
-for example:
+  for example:
 ```node main.js --dialNum=46```
 ```node main.js --dialNum=46732```
 
